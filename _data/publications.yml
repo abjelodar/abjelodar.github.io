@@ -1,0 +1,29 @@
+- title: Joint Object and State Recognition using Language Knowledge
+  authors: Ahmad  Babaeian  Jelodar,  Y.  Sun 
+  conference: IEEE International Conference on Image Processing (ICIP)
+  date: Sep 2019
+  source: "./resources/papers/ICIP_2019.pdf"
+  link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8803530
+
+- title: Long Activity Video Understanding using Functional Object-Oriented Network
+  authors: Ahmad  Babaeian  Jelodar,  D.  Paulius,  Y.  Sun 
+  conference: IEEE Transactions on Multimedia
+  date: Dec 2018
+  source: resources/papers/ITMM_2018.pdf
+  link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8563111
+
+- title: Functional Object-Oriented Network Construction and Expansion
+  authors: D. Paulius, Ahmad Babaeian Jelodar, Y. Sun 
+  conference: IEEE International Conference on Robotics and Automation
+  date: May 2018
+  source: resources/papers/ICRA_2018.pdf
+  link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8460200
+
+
+- title: WordNet Based Features for Predicting Brain Activity Associated with Meanings of Nouns
+  authors: Ahmad Babaeian Jelodar, M. Alizadeh, S. Khadivi 
+  conference: NAACL-HLT Workshop on Computational Neurolinguistics
+  date: June 2010
+  source: resources/papers/NHLT_2010.pdf
+  link: https://www.aclweb.org/anthology/W10-0603.pdf
+

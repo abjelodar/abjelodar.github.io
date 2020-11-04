@@ -1,0 +1,22 @@
+- name: Data Science Intern
+  company: BCG Digital Ventures
+  content: Trained various deep learning based models(e.g. RetinaNet object detection and simple CNN classifiers) for computer vision based detection of hazardous activities in a factory setting in Python using Keras/Tensorflow. Due to the challenge being response time (i.e spontaneous alertof workers), I worked on models that were simple in architecture and implemented a combination of deep learning based methods with traditional methods (e.g. optical flow, background extraction) for furtherenhancement using Python/OpenCV.
+  location: California, USA
+  time: May 2019 - August 2019
+
+
+- name: Computer Vision Engineer
+  company: Son Corporate Group
+  content: I Implemented the state of the art Particle Filter human tracking algorithms for a soccer analysis software in C++/OpenCV and Implementated Object detection algorithms (i.e HOG) for surveillance systems in C++/OpenCV. I also was Lead engineer and developer where I mentored a group of more than ten machine learning engineers for implementing computer vision modules in surveillance applications which lead to implemented modules in C++ and research based milestones in Matlab for applications such as traffic monitoring, fire detection, motion detection, people counting, loitering, etc.
+  location: Tehran, Iran
+  time: Apr. 2014 - Sept. 2015
+
+
+- name: Computer Vision Engineer
+  company: Favaran Water Features Inc.
+  content: I implemented the prototype for an interactive fountain including various water nozzles using human motion/detection in C++/OpenCV. I collaborated with a team of diverse engineers (e.g. mechanical and electrical engineers) which lead to a multi-nozzle water fountain installed at one of the major squares in Tehran, Iran. We also prototyped some interactive game and surface applications and implemented a graphical interactive game, based on human motion using C++, Qt, OpenGL, and Microsoft Kinect.
+  location: Tehran, Iran
+  time: Apr. 2013 - Mar. 2014
+
+
+

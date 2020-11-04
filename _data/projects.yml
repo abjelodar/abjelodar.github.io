@@ -1,0 +1,17 @@
+- project: Squeeze and Excitation Model Analysis
+  tool: Python and Pytorch
+  description: Analayzed the Squeeze and Excitation model from CVPR 2018 with various ablation studies in Pytorch
+  date: Summer 2020
+  link: https://github.com/abjelodar/SE_experiments
+
+- project: Detecting Offensive Comments on Twitter
+  tool: Python
+  description: Created a sentiment analysis of politician tweets using Python and the Twitter development API. This was a team (3 members) project
+  date: Fall 2018
+  link: 
+
+- project: 2D Graphical Simulation of Urban Crisis Management
+  tool: C#
+  description: Created a graphical interface in C# with the google map API which is used for simulation of urban crisis management
+  date: Summer/Spring 2013
+  link:
