@@ -5,13 +5,6 @@
 layout: home
 ---
 
-<div class="topnav">
-  <a class="active" href="#id_publications">Publications</a>
-  <a href="#id_education">Education</a>
-  <a href="#id_experience">Experience</a>
-  <a href="#id_posters">Other</a>
-</div>
-
 
 <h1 class="headline_text"> About Me </h1>
 <div class="container">
