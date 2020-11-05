@@ -19,10 +19,9 @@
 
         <div class="topnav">
 
-	  <a class="active" href="#id_publications">Publications</a>
-	  <a href="#id_education">Education</a>
-	  <a href="#id_experience">Experience</a>
-	  <a href="#id_posters">Other</a>
+	  {% for member in site.data.top_navigation %}
+	  	<a href=#{{member.refer_id}}>{{member.name}}</a>
+	  {% endfor %}
 
         </div>
       </nav>

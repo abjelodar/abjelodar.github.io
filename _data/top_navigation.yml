@@ -1,0 +1,16 @@
+- class: active
+  refer_id: id_publications
+  name: Publications
+
+- class: 
+  refer_id: id_education
+  name: Education
+
+- class: 
+  refer_id: id_experience
+  name: Experience
+
+- class: 
+  refer_id: id_posters
+  name: Other
+
