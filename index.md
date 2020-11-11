@@ -44,7 +44,7 @@ layout: home
 <ul>
 {% for member in site.data.education %}
   <li class="li_style">
-	<b> {{ member.degree }}</b>, {{ member.course }}, <i class="places"> {{ member.university }}</i>, {{ member.location }}, {{ member.end_date }}.
+	<b>{{ member.degree }}</b>, {{ member.course }}, <i class="places"> {{ member.university }}</i>, {{ member.location }}, {{ member.end_date }}.
 	<ul>
 		<li class="small_text"> {{ member.thesis }} </li>
 	</ul>
@@ -58,7 +58,7 @@ layout: home
 <ul>
 {% for member in site.data.experience %}
   <li class="li_style">
-	<b> {{ member.name }} </b>, <i class="places"> {{ member.company }}</i> , {{ member.time }}, {{ member.location }}.
+	<b>{{ member.name }}</b>, <i class="places"> {{ member.company }}</i> , {{ member.time }}, {{ member.location }}.
 	<ul>
 		<li class="small_text"> {{ member.content }} </li>
 	</ul>
@@ -71,7 +71,7 @@ layout: home
 <ul>
 {% for member in site.data.talks %}
   <li class="li_style">
-	<b> {{ member.title }} </b>, {{ member.name }}, {{ member.entity }}.
+	<b>{{ member.title }}</b>, {{ member.name }}, {{ member.entity }}.
 	<ul>
 		<li class="small_text"> {{ member.date }}, {{ member.location }}. </li>
 	</ul>
@@ -84,7 +84,7 @@ layout: home
 <ul>
 {% for member in site.data.projects %}
   <li class="li_style">
-	<b> {{ member.project }} </b>, {{ member.tool }}, {{ member.date }}.
+	<b>{{ member.project }}</b>, {{ member.tool }}, {{ member.date }}.
 	<ul>
 		<li class="small_text"> {{ member.description }} <a href="{{ member.link }}">{{ member.link }}</a>. </li>
 	</ul>
@@ -106,5 +106,15 @@ layout: home
 </ul>
 
 
-
+<h1 id="id_awards" class="headline_text"> <a id="id_awards"></a> Awards and Memberships </h1>
+<ul>
+{% for member in site.data.awards_memberships %}
+  <li class="li_style">
+        {{member.description}}, {{member.date}}.
+        <ul>
+                <li class="small_text">{{member.venue}} <a href="{{ member.link }}">{{ member.link }}</a>.</li>
+        </ul>
+  </li>
+{% endfor %}
+</ul>
 

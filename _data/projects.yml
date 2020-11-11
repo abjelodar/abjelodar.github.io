@@ -10,6 +10,12 @@
   date: Fall 2018
   link: 
 
+- project: Orthogonal Regularization Analysis
+  tool: Python and Tensorflow
+  description: Analayzed the application of various regularization schemes (i.e. orthogonal regularization) for transfer learning and initializing a deep CNN.
+  date: Spring 2019
+  link: 
+
 - project: 2D Graphical Simulation of Urban Crisis Management
   tool: C#
   description: Created a graphical interface in C# with the google map API which is used for simulation of urban crisis management
