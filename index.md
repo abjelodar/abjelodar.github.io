@@ -111,9 +111,6 @@ layout: home
 {% for member in site.data.awards_memberships %}
   <li class="li_style">
         {{member.description}}, {{member.date}}.
-        <ul>
-                <li class="small_text">{{member.venue}} <a href="{{ member.link }}">{{ member.link }}</a>.</li>
-        </ul>
   </li>
 {% endfor %}
 </ul>

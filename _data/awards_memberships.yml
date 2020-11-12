@@ -1,19 +1,19 @@
-- description: Received the Sharfi scholarship for academic excellence
+- description: Received the Sharfi scholarship for academic excellence, Persian-American Society of Tampa Bay
   date: September 2020
-  venue: Persian-American Society of Tampa Bay
+  venue:
   link:
 
-- description: Referee and member of the technical committee at the 2nd Amirkabir Artificial Intelligence Competitions
+- description: Referee and member of the technical committee at the 2nd Amirkabir Artificial Intelligence Competitions (AAIC)
   date: October 2013
-  venue: Amirkabir Artificial Intelligence Competitions, AAIC 2013
+  venue:
   link: http://www.aaic.ir
 
-- description: Ranked Top 2% in Graduate Education (MSc) nationwide examination
+- description: Ranked Top 2% in Graduate Education (MSc) nationwide exam
   date: September 2008
-  venue: National exam for MSc
+  venue:
   link:
 
-- description: Ranked Top 0.5% in Higher Education (BSc) nationwide examination
+- description: Ranked Top 0.5% in Higher Education (BSc) nationwide exam
   date: September 2003
-  venue: National exam for BSc
+  venue:
   link:
