@@ -4,16 +4,16 @@
   date: Summer 2020
   link: https://github.com/abjelodar/SE_experiments
 
-- project: Detecting Offensive Comments on Twitter
-  tool: Python
-  description: Created a sentiment analysis of politician tweets using Python and the Twitter development API. This was a team (3 members) project
-  date: Fall 2018
-  link: 
-
 - project: Orthogonal Regularization Analysis
   tool: Python and Tensorflow
   description: Analayzed the application of various regularization schemes (i.e. orthogonal regularization) for transfer learning and initializing a deep CNN.
   date: Spring 2019
+  link: 
+
+- project: Detecting Offensive Comments on Twitter
+  tool: Python
+  description: Created a sentiment analysis of politician tweets using Python and the Twitter development API. This was a team (3 members) project
+  date: Fall 2018
   link: 
 
 - project: 2D Graphical Simulation of Urban Crisis Management

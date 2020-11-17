@@ -25,7 +25,7 @@ layout: home
 
 
 <h1 class="headline_text"> <a id="id_research"></a> Research </h1>
-<p class="li_style"> My research interests include computer vision, deep learning, image processing, machine learning, and robotics. I am currently working on a project funded by NSF which the aim is to ultimately research and develop to build an autonomus robotic cooking chef. In this regard I work on identifying task graphs from images and extracting understanding from videos. </p>
+<p class="li_style"> My research interests include computer vision, deep learning, image processing, machine learning, and robotics. I am currently working on a project funded by NSF where the goal is to ultimately research, develop and build an autonomus robotic cooking chef. In this regard, I currently am working on identifying task graphs from images and understanding videos. </p>
 
 
 
